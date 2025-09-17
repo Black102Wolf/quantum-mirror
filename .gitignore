@@ -1,0 +1,15 @@
+# API-keys и чувствительные данные
+.env
+*.key
+*.secret
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+
+# Временные файлы
+*.tmp
+*.temp
+
+# Логи
+*.log
